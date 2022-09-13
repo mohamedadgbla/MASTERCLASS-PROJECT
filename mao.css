@@ -1,0 +1,40 @@
+
+body {
+
+    background-image: url("file:///C:/Users/LENOVO/Desktop/MASTER%20CLASS%20PROJECTS/images/rainbow-colorful-background-digital-art-424@0@f-pc-4k.jpg");
+    color: black;
+    background-position:right ;
+    background-repeat: repeat-y;
+    background-attachment: scroll;
+    
+}
+bac
+
+p{
+    color: black;
+    font-size: 12;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    margin-top:3 0cm;
+    padding: left 2px;
+
+}
+
+
+nav ul{
+    color: aqua;
+    margin: 0%;
+    float: right;
+    text-align: right;
+    list-style: row;
+    text-transform: capitalize;
+    text-decoration-line: underline;
+}
+nav:hover{
+    background-color: crimson;
+    color: blue;
+}
+nav ul:hover{
+    background-color: darkgoldenrod;
+    color: crimson;
+}
