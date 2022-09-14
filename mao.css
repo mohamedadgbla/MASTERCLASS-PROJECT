@@ -33,6 +33,7 @@ nav ul{
 nav:hover{
     background-color: crimson;
     color: blue;
+    consor:pointer
 }
 nav ul:hover{
     background-color: darkgoldenrod;
